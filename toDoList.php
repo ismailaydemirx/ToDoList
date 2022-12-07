@@ -46,8 +46,8 @@
         <td><?php echo $id ?></td>
         <td><?php echo $title ?></td>
         <td>
-            <a href="edit.php?id=<?php echo $id ?>" class="btn btn-success btn-sm">Edit</a>
-            <a href="delete.php?id=<?php echo $id ?>" class="btn btn-danger btn-sm">Delete</a>
+            <a href="edit.php?id=<?php echo $id ?>" class="btn btn-success btn-sm">Düzenle</a>
+            <a href="delete.php?id=<?php echo $id ?>" class="btn btn-danger btn-sm">Sil</a>
         </td>
     </tr>
         <?php
