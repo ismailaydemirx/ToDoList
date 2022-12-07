@@ -19,7 +19,7 @@
     <button class="btn btn-success">Listeye Ekle</button>
     </form>
     </div><br/>
-    <hr class="bg-dark w-50 m-auto">
+    <hr class="bg-light w-50 m-auto">
     <div class="w-50 m-auto">
         <h1 class="text-light">Yapılacaklar:</h1>
         <table class="table table-dark table-hover">
